@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Manpreet Singh @singh-sre
-- 👀 I’m interested in DevOps/SRE
-- 🌱 I’m currently learning Python, Docker, Kubernetes, Jenkins, Ansible, Nagios, Terraform etc. 
 - 💞️ I’m looking to collaborate on DevOps projects. 
 
 <!---
